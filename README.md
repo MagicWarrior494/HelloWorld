@@ -16,5 +16,4 @@ This program is written in c++, im using it because im trying to learn it more t
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Visual Studio](https://visualstudio.microsoft.com/downloads/)
